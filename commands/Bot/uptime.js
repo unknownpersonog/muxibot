@@ -1,4 +1,4 @@
-const Discord = require("discord.js")
+const Discord = require("discord.js");
 const prettyMilliseconds = require("pretty-ms");
 
 module.exports = {
